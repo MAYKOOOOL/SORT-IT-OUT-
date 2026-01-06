@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 744e2f8747a2bac408bc18222b54e84b, type: 3}
+  m_Name: Trashbag
+  m_EditorClassIdentifier: 
+  Id: 18
+  uiDisplay: {fileID: 21300000, guid: dac98018ffb88b64987d5b5fc1e23daa, type: 3}
+  objectDisplay: {fileID: 517553015324695496, guid: 132028aef34e621409e30fdfe4d795c5, type: 3}
+  prefab: {fileID: 455256776319409856, guid: 9a1c4e96331cdf34da03ce671f5ee661, type: 3}
+  type: 1
+  price: 500
+  description: 
+  equipmentEffects:
+  - equipmentType: 2

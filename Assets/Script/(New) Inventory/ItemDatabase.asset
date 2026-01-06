@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b25819169e6d7845954e3b4f8587794, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    itemName: Apple
+    icon: {fileID: 21300000, guid: d95a55d3e6e6c294fb386d83a8113071, type: 3}
+    itemType: 2
+    prefab: {fileID: 816685575483590420, guid: 29d2ca1221b93dc41978980942b929d7, type: 3}
+    price: 10
+  - id: 1
+    itemName: Shrink Gun
+    icon: {fileID: -2063612988, guid: f2b995bfb2591ac4983c38f04ca2244c, type: 3}
+    itemType: 1
+    prefab: {fileID: 3766447788704147427, guid: cc181b611c9a43d439c9e7c2c46e98f1, type: 3}
+    price: 100
+  - id: 2
+    itemName: Avocado Peel
+    icon: {fileID: 21300000, guid: e8f837be194b4984696161ec4023712a, type: 3}
+    itemType: 2
+    prefab: {fileID: 2420668477216851641, guid: 39de5fb6fd8d1aa47a8e497ce8cee842, type: 3}
+    price: 10
+  - id: 3
+    itemName: Bone
+    icon: {fileID: 21300000, guid: a8af83a6c99431143bd68c87368c0493, type: 3}
+    itemType: 2
+    prefab: {fileID: 3911683532203444835, guid: c50f111cee4803d4787b08b96bb7c7b5, type: 3}
+    price: 10
+  - id: 4
+    itemName: Broken Glass
+    icon: {fileID: 21300000, guid: de2ad7e41ee4c344fa509df57afa789b, type: 3}
+    itemType: 2
+    prefab: {fileID: 3541904068501176098, guid: 15f23f9615b9339458e3055aa1b9f3b5, type: 3}
+    price: 15
+  - id: 5
+    itemName: Chip Bag
+    icon: {fileID: 21300000, guid: cff10cfa090c82746bf0dd3170172be9, type: 3}
+    itemType: 2
+    prefab: {fileID: 1374069518986989654, guid: 2af49f6d8e9c94142804c731688cf0e5, type: 3}
+    price: 15
+  - id: 6
+    itemName: Container
+    icon: {fileID: 21300000, guid: c2a05ccca268a0744a1f993c1a3568f6, type: 3}
+    itemType: 2
+    prefab: {fileID: 3221566060762236949, guid: 211b80fced878564aa5d89d15d49ace8, type: 3}
+    price: 15
+  - id: 7
+    itemName: CP
+    icon: {fileID: 21300000, guid: ba4051c2d13b90c4abe102be3c22dd8f, type: 3}
+    itemType: 2
+    prefab: {fileID: 288754715862494261, guid: e92a83792f4f7d643aabb6fe1f59f6d0, type: 3}
+    price: 20
+  - id: 8
+    itemName: DVD
+    icon: {fileID: 21300000, guid: 6cff38316fc5ad941ac37426010fea20, type: 3}
+    itemType: 2
+    prefab: {fileID: 3154258831663391973, guid: 3d51f20666fcf0f4fb006ae3c6c0969a, type: 3}
+    price: 20
+  - id: 9
+    itemName: Egg
+    icon: {fileID: 21300000, guid: 96e4d3f90d0e21149adf56344a2019c5, type: 3}
+    itemType: 2
+    prefab: {fileID: 3286565370009534932, guid: e561c6abbad9e914da139378a208a886, type: 3}
+    price: 10
+  - id: 10
+    itemName: Fish Bone
+    icon: {fileID: 21300000, guid: 6b8ebb72e66fd9b43af66a220bd38bae, type: 3}
+    itemType: 2
+    prefab: {fileID: 1106765278776843543, guid: f182acc85b8060443b0e057771ce8984, type: 3}
+    price: 10
+  - id: 11
+    itemName: Kahoy
+    icon: {fileID: 21300000, guid: 4596e4b1b4da1664db208313e8e69592, type: 3}
+    itemType: 2
+    prefab: {fileID: 796257848183414331, guid: 82fefdd57fe54be498260eae0f2d5945, type: 3}
+    price: 10
+  - id: 12
+    itemName: Light Bulb
+    icon: {fileID: 21300000, guid: bfde82f4fc35d1646aae5039be3f9748, type: 3}
+    itemType: 2
+    prefab: {fileID: 1135080647505271202, guid: a80dd30b1c23b0d478c1f01a9ad4d9a4, type: 3}
+    price: 20
+  - id: 13
+    itemName: Medicine Bottle
+    icon: {fileID: 21300000, guid: 542cd042bbf1934438f6c126ac35833a, type: 3}
+    itemType: 2
+    prefab: {fileID: 3118326910633258796, guid: 91307759498cfa94a8463a49b7e58995, type: 3}
+    price: 15
+  - id: 14
+    itemName: NailPolish Bottle
+    icon: {fileID: 21300000, guid: 0e29d206c303ddd42a49956fe392afca, type: 3}
+    itemType: 2
+    prefab: {fileID: 160995253393996391, guid: b01b6c8aeaad40e4e89f82095323ebb3, type: 3}
+    price: 15
+  - id: 15
+    itemName: Paint Bucket
+    icon: {fileID: 21300000, guid: 1d92d40706b55a74b8574e7f162a58f2, type: 3}
+    itemType: 2
+    prefab: {fileID: 1783092749876880796, guid: e334bdc8b3fb91b419b097c58fe8cc25, type: 3}
+    price: 15
+  - id: 16
+    itemName: Plastic Bottle
+    icon: {fileID: 21300000, guid: 0fbff72e78088704aacbb4e240522aae, type: 3}
+    itemType: 2
+    prefab: {fileID: 8812461423276535425, guid: 6d39ad05acff44f42989a2b16ff327f5, type: 3}
+    price: 15
+  - id: 17
+    itemName: Plastic Cup
+    icon: {fileID: 21300000, guid: 7d36f22136a409347b51e6593d45878e, type: 3}
+    itemType: 2
+    prefab: {fileID: 8008776217307810286, guid: 256753dc544944b4cb103c64194ca5ce, type: 3}
+    price: 15
+  - id: 18
+    itemName: Pumpkin
+    icon: {fileID: 21300000, guid: 1fb04917a209a294885252b5038b119e, type: 3}
+    itemType: 2
+    prefab: {fileID: 9109135839944635830, guid: 5f78d92f2706d334497e1faaab84d5f8, type: 3}
+    price: 10
+  - id: 19
+    itemName: Sili
+    icon: {fileID: 21300000, guid: 5c98e2c2d5944da4d82a579282ffd43e, type: 3}
+    itemType: 2
+    prefab: {fileID: 8089109107055369230, guid: ea1f3717990544547a73a9eb24ca2e1e, type: 3}
+    price: 10
+  - id: 20
+    itemName: Straw
+    icon: {fileID: 21300000, guid: 220e3af8e8d42554ab81130d78fddb49, type: 3}
+    itemType: 2
+    prefab: {fileID: 1366163512112682322, guid: bd7ed09faaabbd8449d64db2d9a7b8fc, type: 3}
+    price: 15
+  - id: 21
+    itemName: Syringe
+    icon: {fileID: 21300000, guid: 83e5ed9fcad1f754695344d032ddee2b, type: 3}
+    itemType: 2
+    prefab: {fileID: 4041492955467847345, guid: 8a4ea8b1c0f14554b916dbc77fd7759b, type: 3}
+    price: 20
+  - id: 22
+    itemName: Thermometer
+    icon: {fileID: 21300000, guid: 51ee034157008b44bab1c6e570f7a548, type: 3}
+    itemType: 2
+    prefab: {fileID: 456115548941879134, guid: b49f200932a86564e9389efe0b6cc051, type: 3}
+    price: 20
+  - id: 23
+    itemName: Tsinelas
+    icon: {fileID: 21300000, guid: 90710c5fb078d574e9e7a4f40924d8f6, type: 3}
+    itemType: 2
+    prefab: {fileID: 2833405938203899878, guid: b7a37a4807544f74cacc7c99bffd27fb, type: 3}
+    price: 15
+  - id: 24
+    itemName: Yosi
+    icon: {fileID: 21300000, guid: 0f403108ccdd72747be96fc31a6b614c, type: 3}
+    itemType: 2
+    prefab: {fileID: 8437182121286042941, guid: 9762767365b88464fb49321500659d50, type: 3}
+    price: 20
+  - id: 25
+    itemName: Ammo
+    icon: {fileID: -537999978, guid: e60aafe930b1be3438b65745c9e15a53, type: 3}
+    itemType: 0
+    prefab: {fileID: 212271772126692906, guid: 30c5cec3ed500074fa64a8ec1163bf11, type: 3}
+    price: 10
+  - id: 26
+    itemName: Energy Potion
+    icon: {fileID: 18094346, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 1931968600376386110, guid: d89795002745dc747ba1e6a7d9dbebe1, type: 3}
+    price: 15
+  - id: 27
+    itemName: Energy Regen Potion
+    icon: {fileID: -1047828445, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 7440673010144020514, guid: 648d83d9af28e534bb05ecc595ada67a, type: 3}
+    price: 50
+  - id: 28
+    itemName: Health Potion
+    icon: {fileID: 162381770, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 5213197166370076430, guid: 8d090d5ee41cd4849adf84b0c6e6de08, type: 3}
+    price: 15
+  - id: 29
+    itemName: Jump Potion
+    icon: {fileID: 50492295, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 4959438147404343393, guid: 11abb0fb35558e642b2da732fafe9d5e, type: 3}
+    price: 50
+  - id: 30
+    itemName: Max Energy Potion
+    icon: {fileID: 1360799413, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 1386448739159108364, guid: 54f80cc591b228046a4d656017f91432, type: 3}
+    price: 100
+  - id: 31
+    itemName: Max Health Potion
+    icon: {fileID: 1181828198, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 5055658989819732855, guid: b2f56a5da0052f144ba17ab9944acad3, type: 3}
+    price: 100
+  - id: 32
+    itemName: Speed Potion
+    icon: {fileID: -1662661698, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 6170947894994747969, guid: e767e7e2cf7d84d4c914bc1509e68708, type: 3}
+    price: 50
+  - id: 33
+    itemName: Strength Potion
+    icon: {fileID: -960975905, guid: b41d6648fd04d9c4e83a6de3fce3e003, type: 3}
+    itemType: 0
+    prefab: {fileID: 4314046648036157964, guid: 52ddf0a4470ff6941b8ac858eb0627c5, type: 3}
+    price: 50
+  - id: 34
+    itemName: Coin
+    icon: {fileID: -722884665, guid: e2eff18a61bcf3a40bf48dd7e9cb822d, type: 3}
+    itemType: 0
+    prefab: {fileID: 6106855197233436348, guid: 03bb887340da7e142aa0bff0b407e67e, type: 3}
+    price: 0
+  - id: 35
+    itemName: Reciept
+    icon: {fileID: 971846029, guid: c1f05ad820ee6a745a3d87656ed097b1, type: 3}
+    itemType: 0
+    prefab: {fileID: 212271772126692906, guid: 4f1851083fecca4489818ea4e3a52376, type: 3}
+    price: 0
+  - id: 36
+    itemName: Bag
+    icon: {fileID: 21300000, guid: 23a275533930afe46bafac5418fde5bb, type: 3}
+    itemType: 0
+    prefab: {fileID: 4304761885184814534, guid: 60eff839f14a5154ba6c2e084cc89cd2, type: 3}
+    price: 500

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: Lightbulb
+  m_EditorClassIdentifier: 
+  Id: 9
+  uiDisplay: {fileID: 234463840, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 1030925258045962199, guid: 2c897bd4399614bf7834e16704ac26b0, type: 3}
+  prefab: {fileID: 455256776319409856, guid: f896312c44a1c41ea9a1644e06999285, type: 3}
+  type: 2
+  price: 10
+  description: 
+  trashType: 2
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1

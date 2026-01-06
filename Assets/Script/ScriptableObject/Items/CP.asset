@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: CP
+  m_EditorClassIdentifier: 
+  Id: 4
+  uiDisplay: {fileID: -1603745649, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 6447406446976254783, guid: 1a3e7e091a2224019b33dd3032a1c447, type: 3}
+  prefab: {fileID: 455256776319409856, guid: 6b569a62d78d5436880154bed60c8c1c, type: 3}
+  type: 2
+  price: 5
+  description: 
+  trashType: 2
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1

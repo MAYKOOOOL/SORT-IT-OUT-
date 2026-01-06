@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6cb67a903ce14b4abc0cce0f135aab8, type: 3}
+  m_Name: KillQuest1
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questTitle: Destroy Enemies 1
+  instructions: '- Press [E] to Use the Crystal.
+
+    - Hold [Right Click] to Aim
+
+    -
+    Press [Left Click] to Shoot'
+  startDialogue: There are many cockroaches in the next room. Use the Shrink Gun
+    to eliminate them and proceed to the next room.
+  completionDialogue: 'Here is some extra ammo. Speak with me again to receive your
+    next quest. '
+  questType: 4
+  showArrow: 1
+  autoComplete: 0
+  requiredItemType: 0
+  requiredItemID: -1
+  requiredAmount: 3
+  initialItemID: 25
+  rewardItemID: 25

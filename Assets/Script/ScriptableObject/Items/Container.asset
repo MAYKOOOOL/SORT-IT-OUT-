@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: Container
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDisplay: {fileID: -1603745649, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 3307782306492555980, guid: 2e7bae90f43644150bca518489b60b41, type: 3}
+  prefab: {fileID: 455256776319409856, guid: 978488f1508da4eca944541caa5f732b, type: 3}
+  type: 2
+  price: 10
+  description: 
+  trashType: 1
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1

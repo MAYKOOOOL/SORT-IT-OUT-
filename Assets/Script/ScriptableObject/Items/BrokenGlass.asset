@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: BrokenGlass
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDisplay: {fileID: 234463840, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 2208692239680578827, guid: 70e5ef05d312f4dd2921b9eb6a7ace3d, type: 3}
+  prefab: {fileID: 455256776319409856, guid: fbbe93d1f8bad4b11906826911ae624f, type: 3}
+  type: 2
+  price: 4
+  description: 
+  trashType: 1
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: Medicine
+  m_EditorClassIdentifier: 
+  Id: 10
+  uiDisplay: {fileID: -1603745649, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 307889733838650792, guid: 5a651355bb7c34cfe9b73e232c73d3d4, type: 3}
+  prefab: {fileID: 455256776319409856, guid: 4bf8a4dc1fa8749a19805e275141bd8b, type: 3}
+  type: 2
+  price: 10
+  description: 
+  trashType: 2
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1

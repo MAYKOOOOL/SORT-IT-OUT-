@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6cb67a903ce14b4abc0cce0f135aab8, type: 3}
+  m_Name: ExtractQuest
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questTitle: ExtractQuest1
+  instructions: 
+  startDialogue: 
+  completionDialogue: 
+  questType: 5
+  showArrow: 1
+  requiredItemType: 0
+  requiredItemID: -1
+  requiredAmount: 3
+  initialItemID: -1
+  rewardItemID: -1

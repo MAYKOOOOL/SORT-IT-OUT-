@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87cca5c5dafca0e46adc540449bf80f8, type: 3}
+  m_Name: Chips
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDisplay: {fileID: -1603745649, guid: 7d065301273064d4cbfda74f7d0e6b21, type: 3}
+  objectDisplay: {fileID: 6380390343657554051, guid: 105f5dbf0862e4f8c806dc7430e39670, type: 3}
+  prefab: {fileID: 455256776319409856, guid: fbb314da0b04c4640897d8c623cce0be, type: 3}
+  type: 2
+  price: 4
+  description: 
+  trashType: 1
+  minSellValue: 1
+  maxSellValue: 10
+  isBig: 1
